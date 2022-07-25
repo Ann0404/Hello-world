@@ -1,2 +1,3 @@
 My first try
 # Combination of biology and computer science is *very* interesting.
+Today we're learning Git on the command line
