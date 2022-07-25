@@ -2,3 +2,5 @@
 * git push  
 * git pull
 * git status
+* It will give an error notification.  
+
